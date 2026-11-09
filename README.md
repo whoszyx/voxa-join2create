@@ -1,5 +1,6 @@
-<div align="center">
-
+ <p align="center">
+  <img src="./bannner.jpg" alt="random.exe — Pull the feed. Own the file." width="100%">
+</p>
 # ✦ Voxa
 
 ### The temporary voice channel bot that actually looks good.
