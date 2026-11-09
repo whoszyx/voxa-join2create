@@ -171,6 +171,6 @@ Voxa's prefix is **`.v`** — commands only match when followed by whitespace or
 ### 3. Install
 
 ```bash
-git clone https://github.com/youruser/voxa.git
+git clone https://github.com/whoszyx/voxa-join2create
 cd voxa
 npm install
